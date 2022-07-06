@@ -34,6 +34,7 @@ namespace SignalR.API
             //    .AllowAnyHeader()
             //    .AllowCredentials());
             //});
+
             services.AddSignalR();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 

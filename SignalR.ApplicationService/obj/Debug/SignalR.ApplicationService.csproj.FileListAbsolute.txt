@@ -12,3 +12,17 @@ C:\Users\F_nosrati\Downloads\SignalR_final_version\SignalR.API\SignalR.Applicati
 C:\Users\F_nosrati\Downloads\SignalR_final_version\SignalR.API\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.csproj.CopyComplete
 C:\Users\F_nosrati\Downloads\SignalR_final_version\SignalR.API\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.dll
 C:\Users\F_nosrati\Downloads\SignalR_final_version\SignalR.API\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.pdb
+D:\signalR\SignalR.ApplicationService\bin\Debug\SignalR.ApplicationService.dll
+D:\signalR\SignalR.ApplicationService\bin\Debug\SignalR.ApplicationService.pdb
+D:\signalR\SignalR.ApplicationService\bin\Debug\SignalR.Infrastructure.dll
+D:\signalR\SignalR.ApplicationService\bin\Debug\EntityFramework.dll
+D:\signalR\SignalR.ApplicationService\bin\Debug\Dapper.dll
+D:\signalR\SignalR.ApplicationService\bin\Debug\SignalR.Infrastructure.pdb
+D:\signalR\SignalR.ApplicationService\bin\Debug\SignalR.Infrastructure.dll.config
+D:\signalR\SignalR.ApplicationService\bin\Debug\EntityFramework.xml
+D:\signalR\SignalR.ApplicationService\bin\Debug\Dapper.xml
+D:\signalR\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.csproj.AssemblyReference.cache
+D:\signalR\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.csproj.CoreCompileInputs.cache
+D:\signalR\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.csproj.CopyComplete
+D:\signalR\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.dll
+D:\signalR\SignalR.ApplicationService\obj\Debug\SignalR.ApplicationService.pdb
