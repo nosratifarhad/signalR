@@ -10,6 +10,6 @@ namespace SignalR.Infrastructure.Repositorys.OnlineUserHubRepositorys
     public interface IOnlineUserHubRepository
     {
         Task OnDisconnectedOnlineUserAsync(string connectionId,DateTime dateTime);
-        Task AddOnlineUserAsync(OnlineUserHubDTO onlineclient);
+        Task AddOnlineUserAsync(string ipAddress, OnlineUserHubDTO onlineclient);
     }
 }
